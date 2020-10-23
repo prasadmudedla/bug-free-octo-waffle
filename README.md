@@ -3,7 +3,6 @@ This is Test Automation framework designed using Protractor, Jasmine and TypeScr
 
 ## Framework Structure
 ```
-├───.circleci                       # This contains CircleCI config.yml file
 ├───images                          # This folder contains sample report image
 ├───page-objects                    # This folder contains page object, page helper and page contants
 │   ├───common
