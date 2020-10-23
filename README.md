@@ -1,5 +1,3 @@
-![Protractor, Jasmine and Typescript](./images/protractor-jasmine-typescript.png?raw=true "Protractor, Jasmine and Typescript")
-
 # Protractor, Jasmine and Typescript Setup Guide
 This is Test Automation framework designed using Protractor, Jasmine and TypeScript
 
@@ -22,10 +20,7 @@ This is Test Automation framework designed using Protractor, Jasmine and TypeScr
 ### Pre-requisites
 * Download and install Chrome or Firefox browser.
 * Download and install Node.js:
-  * [Install Node.JS](https://qaloop.tk/blog/install-node-js/ "Install Node.JS")
 * Optional - Download and install any Text Editor like Visual Code/Sublime/Brackets
-  * [Install Visual Studio Code](https://qaloop.tk/blog/install-visual-studio-code/ "Install Visual Studio Code")
-
 
 ### Setup Scripts 
 * Clone the repository into a folder
@@ -48,12 +43,3 @@ This is Test Automation framework designed using Protractor, Jasmine and TypeScr
 
 ### How to Update local npm packages
 * Go to Project root directory and run command: `npm update`
-
-### Sample Test Results
-![Protractor, Jasmine and Typescript Test Results](./images/test-results.png?raw=true "Protractor, Jasmine and Typescript Test Results")
-
-
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/test-automation-using-protractor-jasmine-typescript/ "Step by Step installation instruction for Beginners")
-
-
-## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
